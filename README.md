@@ -5,7 +5,7 @@
 * [Setting up Selenium](#Setting-up-Selenium)
    - [Selenium Package](#Selenium-Package)
 * [Scraping Process](#DScraping-Process)
-   - [Import libraries](#Import-libraries)_
+   - [Import libraries](#Import-libraries)
    - [Define driver path](#Define-driver-path)
    - [Create function for scraping data](#Create-function-for-scraping-data)
    - [Create DataFrame and save to CSV file](#Create-DataFrame-and-save-to-CSV-file)
