@@ -3,16 +3,16 @@
 ## Table of Contents
 * [Project Objective](#Project-Objective)
 * [Setting up Selenium](#Setting-up-Selenium)
-   - Selenium Package
+   - [Selenium Package](#Selenium-Package)
 * [Scraping Process](#DScraping-Process)
-   - Import libraries
-   - Define driver path
-   - Create function for scraping data
-   - Create DataFrame and save to CSV file
+   - [Import libraries](#Import-libraries)_
+   - [Define driver path](#Define-driver-path)
+   - [Create function for scraping data](#Create-function-for-scraping-data)
+   - [Create DataFrame and save to CSV file](#Create-DataFrame-and-save-to-CSV-file)
 * [Upload Data to BigQuery](#Upload-data-to-BigQuery)
-   - Prerequisite
-   - Example of script for uploading data to BigQuery
-* [Conclusion](#Conclusion)
+   - [Prerequisite](#Prerequisite)
+   - [Example of script for uploading data to BigQuery](#Example-of-script-for-uploading-data-to-BigQuery)
+
   
 
 ## Project Objective
