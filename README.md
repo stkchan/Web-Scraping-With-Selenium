@@ -64,7 +64,7 @@ from datetime import datetim
 
 ### Define driver path
 ```python
-driver_path = r"C:\MyProject\Python\chromedriver.exe"
+driver_path = r"C:\MyProject\Python_test\chromedriver.exe"
 service = Service(driver_path)
 driver = webdriver.Chrome(service=service)
 ```
